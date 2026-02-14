@@ -1,0 +1,12 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Logs and JSON data (if you don't want to share them)
+agent_logs.json
+*.log
